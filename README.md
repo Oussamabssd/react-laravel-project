@@ -1,7 +1,8 @@
 # react-laravel-project
 
 ## 🌟 About the Project
-in this project you will find a implementation about using api bettwin React.js and Laravel framworks (login and singup)
+In this project, you will find an implementation of API communication between React.js and Laravel frameworks for login and signup functionality.
+
 
 ## 🚀 Features
 - Login
